@@ -27,3 +27,11 @@ Python and Data Science techniques.
 - Average student grade analyzed
 - Study time vs performance relationship
 - Predictive model for student grades
+
+1️⃣ Data Loading
+2️⃣ Data Cleaning
+3️⃣ Exploratory Data Analysis
+4️⃣ Data Visualization
+5️⃣ Machine Learning Prediction
+6️⃣ Interactive Dashboard
+7️⃣ Insights & Conclusion
